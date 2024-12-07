@@ -15,7 +15,6 @@
 서버 시간을 기준으로 한 랭킹과 당첨 여부를 명확히 제공하여 신뢰성을 높입니다.
 
 # 기술 스택
-Backend: Spring Boot
-Database: (사용한 데이터베이스 기술을 적어주세요, 예: MySQL, PostgreSQL)
-Frontend: (프론트엔드가 포함되었을 경우 기술을 적어주세요, 예: React, Vue.js)
-DevOps: (배포 관련 정보를 추가해 주세요, 예: Docker, Kubernetes, AWS)
+- Backend: Spring Boot (Java, Gradle)
+- Database: MySQL, Redis
+- DevOps: Docker, AWS, Jenkins, Notion, GitLab, Jira
